@@ -33,3 +33,7 @@ nosetests.xml
 .mr.developer.cfg
 .project
 .pydevproject
+
+#api keys and personal info
+apikey.py
+nickloc.csv
